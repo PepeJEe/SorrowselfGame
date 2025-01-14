@@ -3,7 +3,7 @@ Sorrowself made by Perttu Vierimaa.
 
 ![Päätunniste](https://github.com/user-attachments/assets/41c5ca8b-7953-47de-bb55-a4973f27483d)
 
-## Disclaimer The music is done by Witkoria zac
+## Disclaimer The music is done by Wiktoria zac
 
 # Boss
 
