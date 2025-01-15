@@ -1,8 +1,6 @@
 # SorrowselfGame
 Sorrowself made by Perttu Vierimaa.
 
-Due to project being over 5GB, I couldn't push to github.
-
 ![Päätunniste](https://github.com/user-attachments/assets/41c5ca8b-7953-47de-bb55-a4973f27483d)
 
 
